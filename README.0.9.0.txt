@@ -1,6 +1,6 @@
 Cardservproxy 0.9.0 additions/changes
 -------------------------------------
-
+ 
 The 0.9.0 release introduces a number of changes that require attention if attempting an upgrade.
 
 Some guidelines:
